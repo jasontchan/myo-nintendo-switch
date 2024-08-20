@@ -1,7 +1,5 @@
 # myo-nintendo-switch
 
-# Using myo-control
-
 ### Usage:
 
 ```
