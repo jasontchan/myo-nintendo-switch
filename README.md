@@ -33,6 +33,8 @@ python3 myo_regression.py --ip <ip address> --port <port number>
 
 You may use the keyboard interface to navigate throughout the Nintendo Switch. Once you would like to toggle EMG control, press e.
 
+![IMG_7501 (1)](https://github.com/user-attachments/assets/0dfd171a-9783-4489-a007-4ff98b251c01)
+
 ### About
 
 Built on top of existing code from [pyomyo](https://github.com/PerlinWarp/pyomyo) [Neurobreakout](https://github.com/PerlinWarp/Neuro-Breakout) and [nxbt](https://github.com/Brikwerk/nxbt).
