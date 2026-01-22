@@ -1,0 +1,9 @@
+pyomyo==0.0.2
+nxbt
+pygame
+numpy
+pandas
+scikit-learn
+psutil
+blessed
+pynput
