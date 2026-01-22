@@ -3,8 +3,7 @@
 ### Usage:
 
 ```
-pip install pyomyo==0.0.2
-pip install nxbt
+pip install -r requirements.txt
 ```
 
 Note: NXBT needs root privileges to toggle the BlueZ Input plugin.
